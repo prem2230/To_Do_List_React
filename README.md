@@ -1,8 +1,6 @@
-#To Do List App using React Js with CRUD Operations
 
+# To Do List App using React Js with CRUD Operations
 
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
